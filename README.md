@@ -50,5 +50,5 @@ B.Tech Electronics and Communications — JNTU Hyderabad
 ---
 
 <p align="center">
-  <a href="mailto:bakkaswetha@gmail.com">Email</a>
+  <a href="mailto:bakkaswetha@gmail.com">Email</a> · <a href="https://github.com/bakkaswetha/bakkaswetha/blob/main/Swetha_Bakka_Resume.pdf">Resume</a>
 </p>
