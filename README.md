@@ -28,7 +28,7 @@ Data platform & infrastructure engineer with 15+ years building and maintaining 
 
 ### 💼 Professional
 
-**Data Quality & AI Consultant — [AISOFT LLC](https://aisoft.us)** `2024 – Present`
+**Forward Deployed Engineer — [AISOFT LLC](https://aisoft.us)** `2024 – Present`
 AI-assisted data quality frameworks on Snowflake and Python: automated anomaly detection, LLM-driven validation, lineage traceability.
 
 **Software Engineer — Rocket Mortgage** `2020 – 2024`
